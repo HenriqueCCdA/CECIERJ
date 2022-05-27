@@ -1,0 +1,1 @@
+MOEDA_BYTES = 20
